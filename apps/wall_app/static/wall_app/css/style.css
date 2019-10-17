@@ -1,0 +1,38 @@
+.inline {
+    display: inline-block;
+    color: white;
+}
+
+.drop {
+    margin-top: 8px;
+}
+
+.wall-font {
+    font-size: 40px;
+}
+
+.resize-none {
+    resize: none;
+}
+
+.smaller-text {
+    font-size: 16px;
+}
+
+.comment-push {
+    margin-left: 49px;
+}
+
+.comment-down {
+    margin-bottom: 70px;
+}
+
+.bolder {
+    font-weight: 700;
+}
+
+.light-bold {
+    font-weight: 600;
+}
+
+
